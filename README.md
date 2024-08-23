@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @devibukun
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mhizdivylashey@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Her/she
 - ⚡ Fun fact: ...
 
 <!---
